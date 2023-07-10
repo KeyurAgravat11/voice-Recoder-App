@@ -1,0 +1,1 @@
+Menu is removed since the app now has navigation drawer.
